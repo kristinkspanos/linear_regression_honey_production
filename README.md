@@ -1,4 +1,4 @@
-# linear_regression_honey_production
+# Linear Regression - Honey Production
 Codecademy project using linear regression to predict future honey production.
 
 In recent years, there has been widespread concern about the decline of the honeybee population in the United States. This project aims to predict the size of the honeybee population into future, based the change in the size of the population between 1998 and 2012. The project uses a linear regression model to create a line of best fit that describes the trend in honeybee production. The line of best fit is then extended to the year 2050, in order to identify the predicted level of honey production if the identified trend continues. 
