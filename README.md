@@ -1,7 +1,7 @@
 # linear_regression_honey_production
 Codecademy project using linear regression to predict future honey production.
 
-## Built with
+## built with
 * Python 3
 * Jupyter Notebook
 
@@ -9,7 +9,17 @@ Codecademy project using linear regression to predict future honey production.
 'Honey Production in the USA (1998-2012)' dataset, downloaded from Kaggle.
 https://www.kaggle.com/jessicali9530/honey-production
 
-First Header | Second Header
+Field | Description
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+state | State name abbreviation
+numcol | Number of honey producing colonies
+yieldpercol | Yield per colony (lbs)
+totalprod | Total production (numcol * yieldpercol), (lbs)
+stocks | Stocks held by producers on Dec 15 (lbs)
+priceperlb | Average price per pound ($)
+prodvalue | Value of production (totalprod * prodvalue), ($)
+year | Year the data pertains to
+
+## Acknowledgements
+* [Kaggle, Jessica Li](https://www.kaggle.com/jessicali9530/honey-production)
+* [Codecademy](https://www.codecademy.com/learn)
