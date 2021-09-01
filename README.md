@@ -20,6 +20,6 @@ priceperlb | Average price per pound ($)
 prodvalue | Value of production (totalprod * prodvalue), ($)
 year | Year the data pertains to
 
-## Acknowledgements
+## acknowledgements
 * [Kaggle, Jessica Li](https://www.kaggle.com/jessicali9530/honey-production)
-* [Codecademy](https://www.codecademy.com/learn)
+* [Codecademy Data Scientist Skill Path](https://www.codecademy.com/learn)
